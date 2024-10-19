@@ -1,0 +1,32 @@
+body {
+    background-color: pink;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+    font-size: 2.5em;
+    margin: 20px 0;
+}
+
+h2 {
+    color: rgb(81, 139, 0);
+    font-size: 2em;
+    margin: 15px 0;
+}
+
+button {
+    color: black;
+    background-color: burlywood;
+    font-size: 1em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #d2b48c;
+}
